@@ -4,17 +4,21 @@
 
 * mac amd64
 * docker
+* docker-compose
 * etcd v3.4
 
-docker 启动 etcd
-
-```shell
-docker run -itd --name myetcd -p 23790:2379 -e ALLOW_NONE_AUTHENTICATION=yes bitnami/etcd:3.4.13-debian-10-r0
-```
+## 搭建 etcd 服务
+* 单节点
+* 多节点
 
 ## example
 
 - [ ] Use etcdctl
+  - put
+  - get
+  - watch
+
+- [ ] Use go client
   - put
   - get
   - watch
