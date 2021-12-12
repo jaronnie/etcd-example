@@ -11,7 +11,7 @@
 * 单节点
 * 多节点
 
-[点此查看搭建etcd服务文档](doc/build-etcd-service.md)
+[点此查看搭建etcd服务文档](docs/build-etcd-service.md)
 
 ## example
 
