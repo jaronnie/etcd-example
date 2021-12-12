@@ -11,6 +11,8 @@
 * 单节点
 * 多节点
 
+[点此查看搭建etcd服务文档](doc/build-etcd-service.md)
+
 ## example
 
 - [ ] Use etcdctl
