@@ -28,3 +28,4 @@
 - [x] service registration and discovery
   - 实现对配置文件的监控 viper + fsnotify
   - 实现对 etcd 的监控 watch 模式
+- [x]
